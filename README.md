@@ -1,4 +1,3 @@
-# Tubes PMC Kelompok 4
+# Final Project EL2008 - Pemecahan Masalah dengan C ( Problem Solving with C )
 
-Dalam tugas besar ini, kami mencoba mengimplementasikan algoritma kriptografi Ascon pada
-microcontroller esp32 untuk melindungi data pada sistem RFID. 
+Implementation of Ascon Cryptographic Algorithm: RFID Based Storage Security System with Ascon Encryption
